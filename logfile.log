@@ -1,0 +1,12 @@
+python client.py $ client -s 34.173.12.133 -p 3389 -l LOGFILE
+
+The values are:
+IP Address: 34.173.12.133
+Port #: 3389
+Log File Location: LOGFILE
+Enter a message: network
+
+Message from server:  Hello there ('208.180.250.178', 63719). Here is another random quote of wisdom for you:Note that because of its semantics, 'del' can't be a function: "del a" deletes 'a' from the current namespace. A function can't 
+delete something from the calling namespace (except when written by Steve Majewski :-)., Guido van Rossum, 1 Aug 1994
+
+Message received: b'Hello there (\'208.180.250.178\', 63719). Here is another random quote of wisdom for you:Note that because of its semantics, \'del\' can\'t be a function: "del a" deletes \'a\' from the current namespace. A function can\'t delete something from the calling namespace (except when written by Steve Majewski :-)., Guido van Rossum, 1 Aug 1994\n
